@@ -1,0 +1,46 @@
+{
+  "author": {
+    "name": "jiangcaiyang",
+    "email": "jiangcaiyang12345@126.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jiangcaiyang/nodebb-plugin-qtdream-homepage/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "npm": "^5.8.0"
+  },
+  "deprecated": false,
+  "description": "Allows you to define your image based homepage such as youtube.com, youku.com or vimeo.com.",
+  "directories": {},
+  "homepage": "https://qtdream.com",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "qtdream",
+    "homepage"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "./library.js",
+  "maintainers": [
+    {
+      "name": "jiangcaiyang",
+      "email": "jiangcaiyang12345@126.com"
+    }
+  ],
+  "name": "nodebb-plugin-qtdream-homepage",
+  "nbbpm": {
+    "compatibility": "^1.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangcaiyang/nodebb-plugin-qtdream-homepage.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.6.3",
+  "__npminstall_done": "Wed Mar 11 2020 07:51:47 GMT+0000 (Coordinated Universal Time)",
+  "_from": "nodebb-plugin-qtdream-homepage@2.6.3",
+  "_resolved": "https://registry.npm.taobao.org/nodebb-plugin-qtdream-homepage/download/nodebb-plugin-qtdream-homepage-2.6.3.tgz"
+}
