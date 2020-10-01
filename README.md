@@ -1,3 +1,7 @@
+https://github.com/jiangcaiyang/nodebb-plugin-qtdream-homepage
+https://github.com/jiangcaiyang/nodebb-plugin-qtdream-homepage
+https://github.com/jiangcaiyang/nodebb-plugin-qtdream-homepage
+
 # Basic CMS plugin for NodeBB - qtdream homepage
 
 Allows you to define your image based homepage such as youtube.com, youku.com or vimeo.com.
